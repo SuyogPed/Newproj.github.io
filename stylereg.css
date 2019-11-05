@@ -1,0 +1,23 @@
+body{
+	background-image: url(../Images/hulk.jpg);
+	background-size: cover;
+}	
+
+form{
+
+	font-size: 20px
+}
+h1{
+
+	border: 2px dashed black;
+}
+li{
+	list-style: none;
+	display: inline-block;
+	font-size: 30px
+}
+
+strong{
+
+	font-size: 20px
+}
